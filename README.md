@@ -28,3 +28,6 @@ Usuario técnico:
 	<img src="https://raw.githubusercontent.com/Archerd6/Aplicacion-robots-asistenciales-Web/main/Documentos%20del%20proyecto/Robot-asistencial.jpg" style="width:60%">
 	<br>
 </p>
+
+
+Para iniciar el proyecto en local ejecutar el archivo "Iniciar servidor.bat" con flask instalado en el sistema.
